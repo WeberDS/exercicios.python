@@ -5,4 +5,4 @@ if numero1 > numero2:
 elif numero2 > numero1:
     print(f"O número {numero2} é maior que o número {numero1}")
 else:
-    print(f"Os números {numero1} e {numero2} são iguais")
+    print(f"O números {numero1} e {numero2} são iguais")
