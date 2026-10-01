@@ -1,3 +1,4 @@
+# adiciona funcionalidade para contar números positivos inseridos pelo usuário
 q_positivos = 0
 
 numero = int(input("Digite um número (ou 0 para sair): "))
