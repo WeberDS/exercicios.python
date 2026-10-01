@@ -1,7 +1,9 @@
 # pede a senha até que seja a correta e exibe acesso liberado
 
-contador = input("Digite sua senha: ")
+senha = input("Digite sua senha: ")
 
-while senha == "senai123"
-    senha = input("Digite a senha: ")
+while senha != "senai123"
+   print("Senha incorreta! Tente novamente.")
+   senha = input("Digite sua senha: ")
+
 print("Acesso liberado!")
