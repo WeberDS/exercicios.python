@@ -23,3 +23,4 @@
 8. `parte2-condicionais/exercicio8_.py` - [Descrição do exercício]
 9. `parte2-condicionais/exercicio9_.py` - [Descrição do exercício]
 
+
